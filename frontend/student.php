@@ -27,8 +27,8 @@
 
         <a href="" class="btn btn-primary mb-3" data-bs-toggle="modal" data-bs-target="#addstudent">Add Student</a>
 
-        <table class="table table-striped table-bordered" id="students">
-            <thead class="table-dark">
+        <table class="" id="students">
+            <thead class="" style="background-color:rgb(15, 113, 204); color: white;">
                 <tr>
                     <th>#</th>
                     <th>Firstname</th>
