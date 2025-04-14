@@ -68,7 +68,7 @@
                 window.location.href = 'dashboard.php';
             } else {
                 document.getElementById('errorMessage').textContent = data.message || 'Login failed';
-                console.log('Login failed:', data);
+                console.log('Login failed:', data.message);
             }
         })
         .catch(error => {

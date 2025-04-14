@@ -1,7 +1,7 @@
 
 
 <div class="sidebar">
-    <h2 class="sidebar-title text-white">Sidebar</h2>
+    <h5 class="sidebar-title text-white d-flex ju">STUDENT MANAGEMENT SYSTEM</h5>
     <ul class="sidebar-menu d-flex flex-column gap-4 m-3 mt-5 text-white list-unstyled">
         <li>
             <a class="text-decoration-none text-white d-flex align-items-center gap-2" href="dashboard.php">
